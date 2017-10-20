@@ -53,6 +53,9 @@
         "symfony/process":"~2.5",
         "mikey179/vfsStream":"~1.4"
     },
+    "replace": {
+        "magento-hackathon/magento-composer-installer": "3.*"
+    },
     "suggest":{
         "theseer/autoload": "~1.14",
         "colinmollenhour/modman": "*"
